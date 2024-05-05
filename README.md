@@ -20,7 +20,8 @@ You can install them using pip:
 pip install pandas scipy matplotlib
 
 
-Project Structure
+## Project Structure
+
 1. Data Collection
 python
 Copy code
@@ -81,9 +82,4 @@ plt.title('Cost Per Conversion Over Time by Platform')
 plt.xlabel('Date')
 plt.ylabel('Cost Per Conversion')
 plt.show()
-Conclusion
-This project provides insights into the advertising performance on Facebook vs. Google AdWords, helping marketers optimize their strategies based on statistical evidence and trend analysis.
 
-Connect
-For more updates on similar projects and data analysis insights, connect with me on LinkedIn:
-Follow Me on LinkedIn.
