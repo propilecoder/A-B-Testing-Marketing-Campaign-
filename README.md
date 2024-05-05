@@ -15,9 +15,6 @@ Ensure you have Python installed, along with the necessary libraries:
 - SciPy for statistical analysis
 - Matplotlib for data visualization
 
-You can install them using pip:
-```bash
-pip install pandas scipy matplotlib
 
 
 ## Project Structure
